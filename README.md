@@ -1,1 +1,1 @@
-# java-projects
+# smnake game using java
