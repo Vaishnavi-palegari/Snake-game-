@@ -1,1 +1,1 @@
-# smnake game using java
+# snake game using java
